@@ -1,3 +1,3 @@
 calculator app
 
-linkL https://melquis772.github.io/calculator
+link: https://melquis772.github.io/calculator
